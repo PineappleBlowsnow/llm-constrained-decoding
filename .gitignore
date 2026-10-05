@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.conda/
+.env
+.env.*
+.cache/
+output/
+my_model/
+wandb/
+*.pt
+*.pth
+*.bin

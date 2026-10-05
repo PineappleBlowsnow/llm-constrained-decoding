@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-05",
+  "source_scope": "TP1 and TP2 only; TP2-redo excluded",
+  "copied_files": [
+    {
+      "source_relative_to_course": "TP1/challenge_v1 (1).py",
+      "published_path": "challenge.py",
+      "sha256": "691edf67bca62a7dd3ed395bca18b87c5a96e9f62cfe1a1112dd06a6350a0c3e"
+    },
+    {
+      "source_relative_to_course": "TP1/challenge.py",
+      "published_path": "course_template/challenge.py",
+      "sha256": "575aa417f11526afcc53510fed409391eb0c592cd15bb1f6f958da1e5e33e61d"
+    }
+  ]
+}
