@@ -1,4 +1,6 @@
-# Constrained decoding: lipograms and forbidden sequences
+# Generating Text under Token and Sequence Constraints
+
+**MVA course — LLMs for Code and Proof**
 
 MVA **LLM for Code and Proof — TP1**, archived from Ying Jin's coursework.
 The implementation performs autoregressive decoding through direct model forward
@@ -53,3 +55,6 @@ download a model or rerun inference.
 
 The implementation is preserved instead of silently changing historical behavior.
 See [provenance](docs/PROVENANCE.md) and [file hashes](docs/source_manifest.json).
+
+
+[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
