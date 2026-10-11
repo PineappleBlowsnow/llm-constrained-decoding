@@ -57,4 +57,4 @@ The implementation is preserved instead of silently changing historical behavior
 See [provenance](docs/PROVENANCE.md) and [file hashes](docs/source_manifest.json).
 
 
-[Back to the MVA project portfolio](https://github.com/PineappleBlowsnow/mva-portfolio)
+[Back to Ying Jin's project directory](https://github.com/PineappleBlowsnow#mva-projects)
